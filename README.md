@@ -31,7 +31,7 @@
 ---
 
 ### 2️⃣ SQL & Excel Analytics Case Studies 🗂️  
-📅 *2025*  
+📅 * Jun-July 2025*  
 - Built **advanced SQL queries** (joins, subqueries, window functions) for business datasets.  
 - Automated reporting in **Excel** with Pivot Tables & Power Query reducing manual effort by **40%**.  
 🔗 *[View Repository](#)*  
