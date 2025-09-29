@@ -16,7 +16,7 @@
 ## 🛠️ Tech Stack  
 - **Languages & Tools:** SQL | Power BI | Excel | DAX | Power Query  
 - **Data Skills:** Data Cleaning | Visualization | KPI Dashboards | Business Insights  
-- **Other Tools:** GitHub | Markdown | ETL Basics  
+- **Other Tools:** GitHub | ETL Basics  
 
 ---
 
@@ -57,7 +57,7 @@
 ## 🏅 Certifications  
 - 📜 Data Analytics Program – **Skillovilla**  
 - 📜 BRC Food Safety Issue 8 to 9 Transition Training  
-- 📜 FSSAI Advanced Food Manufacturing & COVID Guidelines  
+
 
 ---
 
