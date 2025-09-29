@@ -62,9 +62,9 @@
 ---
 
 ## 📫 Connect with Me  
-- 💼 [LinkedIn](https://www.linkedin.com/in/somya-routaray-3b0759217/)  
+- 💼 https://www.linkedin.com/in/somya-routaray-3b0759217/
 - 📧 somyaroutaray1@gmail.com  
-- 🐙 [GitHub](https://github.com/somyaroutaray1-netizen)  
+- 🐙
 
 ---
 
