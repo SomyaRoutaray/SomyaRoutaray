@@ -27,7 +27,6 @@
 - Designed a single-page **Power BI** dashboard tracking **8 key KPIs** for retail performance.  
 - Improved decision-making efficiency by **30%** using **real-time insights**.  
 
-
 ---
 
 ### 2️⃣ SQL & Excel Analytics Case Studies 🗂️  
@@ -35,14 +34,12 @@
 - Built **advanced SQL queries** (joins, subqueries, window functions) for business datasets.  
 - Automated reporting in **Excel** with Pivot Tables & Power Query reducing manual effort by **40%**.  
 
-
 ---
 
 ### 3️⃣ Taclo Drone Delivery – Business Case Study 🚁  
 📅 *May–June 2025*  
 - Evaluated **drone delivery logistics** for a food brand with ROI & cost-benefit analysis.  
 - Proposed a **2-year phased rollout plan** achieving ROI goals.  
-🔗 *[View Repository](#)*  
 
 ---
 
@@ -50,7 +47,6 @@
 📅 *Jan–July 2022*  
 - Conducted **immunohistochemistry research** analyzing angiogenesis in cervical cancer.  
 - Identified key correlations aiding **cancer staging & treatment planning**.  
-
 
 ---
 
